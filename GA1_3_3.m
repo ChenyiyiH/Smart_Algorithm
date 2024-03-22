@@ -55,4 +55,3 @@ title('进化过程')
 bestY = trace(2,end);
 bestX = trace(1,end);
 fprintf(['最优解:\nX=',num2str(bestX),'\nY=',num2str(bestY),'\n'])
-
