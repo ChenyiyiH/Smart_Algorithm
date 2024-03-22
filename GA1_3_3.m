@@ -1,4 +1,5 @@
 function GA1_3_3
+%% Minimum value of a unary function use GA
 %% find  min f(x) = sin(10*pi*x)/x x=[1,2] 
 clc
 clear all
